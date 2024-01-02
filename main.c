@@ -1,7 +1,7 @@
 /*
  * CS 261: P4 Mini-ELF Interpreter Main driver
  *
- * Name: MUST  WRITE YOUR  FULL NAME HERE 
+ * Name: Ben Mccray
  *    or risk losing points, and delays when you seek my help during office hours 
  */
 
